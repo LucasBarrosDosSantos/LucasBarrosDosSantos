@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Barros</h1>
-<h3 align="center">Backend engineer</h3>
+<h3 align="center">Backend engineer in Santander Bank</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbarrosdossantos&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbarrosdossantos" /> </p>
 
