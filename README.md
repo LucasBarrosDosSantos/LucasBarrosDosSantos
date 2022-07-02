@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 👯 I’m looking to collaborate on **Santander bank**
+- 👯 I’m working in **Santander bank**
 
 - 💬 Ask me about **Java, springboot and Microservices**
 
