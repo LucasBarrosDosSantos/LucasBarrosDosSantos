@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Barros</h1>
-<h3 align="center">Specialist Lead in Santander Bank</h3>
+<h3 align="center">Specialist Lead in Triggo Labs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbarrosdossantos&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbarrosdossantos" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 👯 I’m working in **Santander bank**
+- 👯 I’m working in **Triggo Labs**
 
 - 💬 Ask me about **Java, springboot and Microservices**
 
