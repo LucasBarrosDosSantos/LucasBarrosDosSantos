@@ -30,11 +30,7 @@
 ---
 
 ## 📌 Highlight Projects
-- **EstateFlow**  
-  SaaS for **real estate management**:  
-  - Automated property imports (OLX, Zap Imóveis, etc.)  
-  - Integrated with **WhatsApp Cloud API** for lead engagement  
-  - Built with **NestJS + DynamoDB + AWS Lambda** for high scalability  
+ 
 
 - **ByteUp Academy**  
   E-learning platform focused on **tech mentorship**:  
