@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 5+ years building high-availability systems for **fintechs** and **large-scale SaaS**.
-- Strong experience with **Node.js (NestJS)**, **Next.js**, and **AWS** (Lambda, DynamoDB, CloudFront, S3).
+- Strong experience with **Node.js (NestJS)**, **Java**,**Next.js**, and **AWS** (Lambda, DynamoDB, CloudFront, S3).
 - **Banking & finance background** (solutions for thousands of daily active users).
 - Currently developing **EstateFlow** – a real estate management SaaS.
 - Interested in **DevOps practices** & **cost-optimized architectures**.
@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks:**  
-`Node.js` | `TypeScript` | `Next.js` | `NestJS` | `Python`  
+`Java` | `Spring boot` | `Quarkus` |  `Node.js` | `TypeScript` | `Next.js` | `NestJS` | `Python`  
 
 **Cloud & DevOps:**  
 `AWS (Lambda, DynamoDB, CloudFront, S3, Route53)` | `Docker` | `Terraform`  
